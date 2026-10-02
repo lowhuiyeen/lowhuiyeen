@@ -4,7 +4,7 @@
     <img src="assets/greeting.gif?v=1" width="40" height="40" alt="wave">
   </p>
  <p align="center" style="display: flex; align-items: center; justify-content: center;">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=OCR+A+Extended&size=18&pause=1000&color=000000&center=true&vCenter=true&repeat=false&width=700&height=18&lines=UTM+Johor+Student+%E2%80%A2+Curious+Builder+%E2%80%A2+Learning+in+progress" alt="Subtext SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=OCR+A+Extended&size=18&pause=1000&color=000000&center=true&vCenter=true&repeat=false&width=700&height=18&lines=Curious+Builder+%E2%80%A2+Learning+in+progress" alt="Subtext SVG" /></a>
   </p>
 </div>
 
